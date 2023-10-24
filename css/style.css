@@ -13,7 +13,7 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: 900;
 }
 .greetings > span{
@@ -85,7 +85,7 @@ body{
 }
 .description{
     font-size: 1.5rem;
-    margin-bottom: 21px;
+    margin-bottom: 20px;
 }
 
 .button a{
@@ -94,7 +94,7 @@ body{
     color: #111;
 }
 
-@media screen and (max-width:574px){
+@media screen and (max-width:554px){
     .greetings{
         display: block;
         font-size: 3rem;
