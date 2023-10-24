@@ -17,7 +17,7 @@ body{
     font-weight: 900;
 }
 .greetings > span{
-    animation: glow 4s ease-in-out infinite;
+    animation: glow 4.5s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
@@ -74,6 +74,14 @@ body{
 .greetings > span:nth-child(16){
     animation-delay: .30s;
 }
+.greetings > span:nth-child(17){
+    animation-delay: .32s;
+}
+.greetings > span:nth-child(18){
+    animation-delay: .34s;
+}
+.greetings > span:nth-child(19){
+    animation-delay: .36s;
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
