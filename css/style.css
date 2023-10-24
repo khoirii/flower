@@ -78,13 +78,10 @@ body{
     animation-delay: .32s;
 }
 .greetings > span:nth-child(18){
-    animation-delay: .34s;
-}
-.greetings > span:nth-child(19){
     animation-delay: .36s;
 }
-.greetings > span:nth-child(20){
-    animation-delay: .38s;
+.greetings > span:nth-child(19){
+    animation-delay: .40s;
 }
 .description{
     font-size: 1.5rem;
